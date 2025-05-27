@@ -16,16 +16,6 @@
 
 ---
 
-
-  ### 💻 Tecnologías y herramientas
-
-- **Lenguajes:** Python, JavaScript, SQL, Java
-- **IA & GNNs:** PyTorch Geometric, scikit-learn, pandas, NumPy
-- **Frontend:** SvelteKit, Highcharts
-- **Backend:** Express.js, APIs REST, NeDB, MongoDB
-- 
----
-
 ### 📫 ¿Dónde encontrarme?
 
 [LinkedIn](https://www.linkedin.com/in/jaimeduffypanes) • [Correo](mailto:jaimeduffy@protonmail.com)
